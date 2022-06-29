@@ -1,0 +1,17 @@
+https://stackoverflow.com/questions/39003409/how-to-download-specific-google-drive-folder-using-python
+
+https://ploi.io/documentation/database/where-do-i-get-google-drive-folder-id
+
+https://console.cloud.google.com/apis/credentials?project=metal-coil-227510
+
+https://developers.google.com/drive/api/quickstart/python
+
+https://stackoverflow.com/questions/58041597/use-google-drive-from-an-app-with-a-folder-limit-like-dropbox
+
+https://developers.google.com/drive/api/guides/about-auth
+
+https://developers.google.com/drive/api/guides/manage-sharing
+
+https://developers.google.com/drive/api/guides/about-auth
+
+https://i.stack.imgur.com/8UCL8.png
